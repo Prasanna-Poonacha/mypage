@@ -133,6 +133,7 @@
 		line-height: 2;
 		letter-spacing: 0.2em;
 		text-transform: uppercase;
+		text-shadow: 4px 4px 4px #aaa;
 	}
 
 		@media screen and (max-width: 1680px) {
